@@ -10,16 +10,25 @@ namespace LiteExceptionDuplicateKey {
 
   class Program {
 
-    static string[] lines = File.ReadAllLines("AdventureWorks2016CTP3 20170215 1234.sql");
+    static string[] lines;
     static int count;
 
     static void Main(string[] args) {
 
+      GenerateLines();
       string objectId = ObjectId.NewObjectId().ToString();
 
       while (true) {
         Write(objectId);
       }
+    }
+
+    private static void GenerateLines() {
+
+      lines = new string[100000];
+      string s = new string(Enumerable.Range(0, 5000).Select(f => 'a').ToArray());
+      for (int i = 0; i < lines.Length; i++)
+        lines[i] = s;
     }
 
     static void Write(string objectId) {
