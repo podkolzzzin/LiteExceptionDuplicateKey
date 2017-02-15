@@ -1,0 +1,9 @@
+c:\users\andreypod\documents\visual studio 2015\Projects\LiteExceptionDuplicateKey\LiteExceptionDuplicateKey\bin\Debug\LiteExceptionDuplicateKey.exe.config
+C:\Users\AndreyPod\Documents\Visual Studio 2015\Projects\LiteExceptionDuplicateKey\LiteExceptionDuplicateKey\bin\Debug\AdventureWorks2016CTP3 20170215 1234.sql
+C:\Users\AndreyPod\Documents\Visual Studio 2015\Projects\LiteExceptionDuplicateKey\LiteExceptionDuplicateKey\bin\Debug\LiteExceptionDuplicateKey.exe
+C:\Users\AndreyPod\Documents\Visual Studio 2015\Projects\LiteExceptionDuplicateKey\LiteExceptionDuplicateKey\bin\Debug\LiteExceptionDuplicateKey.pdb
+C:\Users\AndreyPod\Documents\Visual Studio 2015\Projects\LiteExceptionDuplicateKey\LiteExceptionDuplicateKey\bin\Debug\LiteDB.dll
+C:\Users\AndreyPod\Documents\Visual Studio 2015\Projects\LiteExceptionDuplicateKey\LiteExceptionDuplicateKey\bin\Debug\LiteDB.xml
+C:\Users\AndreyPod\Documents\Visual Studio 2015\Projects\LiteExceptionDuplicateKey\LiteExceptionDuplicateKey\obj\Debug\LiteExceptionDuplicateKey.csprojResolveAssemblyReference.cache
+C:\Users\AndreyPod\Documents\Visual Studio 2015\Projects\LiteExceptionDuplicateKey\LiteExceptionDuplicateKey\obj\Debug\LiteExceptionDuplicateKey.exe
+C:\Users\AndreyPod\Documents\Visual Studio 2015\Projects\LiteExceptionDuplicateKey\LiteExceptionDuplicateKey\obj\Debug\LiteExceptionDuplicateKey.pdb
